@@ -3,7 +3,7 @@
 	
 
 | Sl. No | Scene Name | Description |
---------- ------------ -------------
+| ------ | ---------- | ----------- |
 | 1. | Platformer Scene | A Basic Platformer scene. This scene uses PlayerControl.cs script for player movement and Cinemachine for camera follow. |
 | 2. | Particles_Animation_SoftLight | A Scene demonstrating particles and animation and soft light in Unity2D. |
 | 3. | Enemy_Follow_Player | This scene demonstrates a basic enemy AI that follows the player in a 2D scene. The PlayerMovement is top-down movement. |
