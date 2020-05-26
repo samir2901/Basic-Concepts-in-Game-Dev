@@ -7,6 +7,7 @@
 | 1. | Platformer Scene | A Basic Platformer scene. This scene uses PlayerControl.cs script for player movement and Cinemachine for camera follow. |
 | 2. | Particles_Animation_SoftLight | A Scene demonstrating particles and animation and soft light in Unity2D. |
 | 3. | Enemy_Follow_Player | This scene demonstrates a basic enemy AI that follows the player in a 2D scene. The PlayerMovement is top-down movement. |
+| 4. | Enemy_Shooter | This scene demonstrates an enemy that follows the player in a 2D scene and shoots at the player. |
  
  References:
  1. [PlayerControl in Platformer Game](https://youtu.be/QGDeafTx5ug?list=PLBIb_auVtBwBotxgdQXn2smO0Fvqqea4-)
@@ -15,3 +16,4 @@
  4. [Animations in 2D](https://youtu.be/EmbA-AitPow)
  5. [Lighting in 2D](https://youtu.be/GLS5_V7kN-8)
  6. [2D Enemy Follow AI](https://youtu.be/rhoQd6IAtDo?list=PLBIb_auVtBwDgHLhYc-NG633rTbTPim9z)
+ 7. [SHOOTING/FOLLOW/RETREAT ENEMY AI WITH UNITY AND C# - EASY TUTORIAL](https://youtu.be/_Z1t7MNk0c4?list=PLBIb_auVtBwDgHLhYc-NG633rTbTPim9z)
