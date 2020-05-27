@@ -8,6 +8,7 @@
 | 2. | Particles_Animation_SoftLight | A Scene demonstrating particles and animation and soft light in Unity2D. |
 | 3. | Enemy_Follow_Player | This scene demonstrates a basic enemy AI that follows the player in a 2D scene. The PlayerMovement is top-down movement. |
 | 4. | Enemy_Shooter | This scene demonstrates an enemy that follows the player in a 2D scene and shoots at the player. |
+| 5. | Enemy_Patrol | This scene shows a patrolling enemy. |
  
  References:
  1. [PlayerControl in Platformer Game](https://youtu.be/QGDeafTx5ug?list=PLBIb_auVtBwBotxgdQXn2smO0Fvqqea4-)
@@ -17,3 +18,4 @@
  5. [Lighting in 2D](https://youtu.be/GLS5_V7kN-8)
  6. [2D Enemy Follow AI](https://youtu.be/rhoQd6IAtDo?list=PLBIb_auVtBwDgHLhYc-NG633rTbTPim9z)
  7. [SHOOTING/FOLLOW/RETREAT ENEMY AI WITH UNITY AND C# - EASY TUTORIAL](https://youtu.be/_Z1t7MNk0c4?list=PLBIb_auVtBwDgHLhYc-NG633rTbTPim9z)
+ 8. [PATROL AI WITH UNITY AND C# - EASY TUTORIAL](https://youtu.be/8eWbSN2T8TE?list=PLBIb_auVtBwDgHLhYc-NG633rTbTPim9z)
