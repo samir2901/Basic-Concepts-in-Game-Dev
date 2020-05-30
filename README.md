@@ -10,6 +10,7 @@
 | 4. | Enemy_Shooter | This scene demonstrates an enemy that follows the player in a 2D scene and shoots at the player. |
 | 5. | Enemy_Patrol | This scene shows a patrolling enemy. |
 | 6. | Tower Defence Enemy | This scene shows an enemy in tower defence game. |
+| 7. | Stealth Enemy | This scene shows demonstrated a stealth enemy. |
  
  References:
  1. [PlayerControl in Platformer Game](https://youtu.be/QGDeafTx5ug?list=PLBIb_auVtBwBotxgdQXn2smO0Fvqqea4-)
@@ -21,3 +22,4 @@
  7. [SHOOTING/FOLLOW/RETREAT ENEMY AI WITH UNITY AND C# - EASY TUTORIAL](https://youtu.be/_Z1t7MNk0c4?list=PLBIb_auVtBwDgHLhYc-NG633rTbTPim9z)
  8. [PATROL AI WITH UNITY AND C# - EASY TUTORIAL](https://youtu.be/8eWbSN2T8TE?list=PLBIb_auVtBwDgHLhYc-NG633rTbTPim9z)
  9. [TOWER DEFENSE ENEMY AI WITH UNITY AND C# - EASY TUTORIAL](https://youtu.be/ZeeJLsEXjno?list=PLBIb_auVtBwDgHLhYc-NG633rTbTPim9z)
+ 10. [STEALTH ENEMY AI WITH UNITY AND C# - EASY TUTORIAL](https://youtu.be/GPrGg8UDB_E?list=PLBIb_auVtBwDgHLhYc-NG633rTbTPim9z)
